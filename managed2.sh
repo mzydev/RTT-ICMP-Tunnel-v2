@@ -19,5 +19,5 @@ else
     echo "Package colorama not found in the repositories."
 fi
 
-python3 <(curl -Ls https://raw.githubusercontent.com/mzydev/RTT-ICMP-Tunnel-v2/main/rtt-icmp.py --ipv4)
+python3 <(curl -Ls https://raw.githubusercontent.com/mzydev/RTT-ICMP-Tunnel-v2/refs/heads/main/rtt-icmp.py --ipv4)
 
