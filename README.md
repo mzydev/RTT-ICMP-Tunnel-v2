@@ -400,7 +400,7 @@ python3 <(curl -Ls https://raw.githubusercontent.com/mzydev/RTT-ICMP-Tunnel-v2/r
  <div dir="rtl">&bull; اگر سرور شما خطای externally-managed-environment داد از دستور زیر اقدام به اجرای اسکریپت نمایید.</div>
  
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/Azumi67/RTT-ICMP-Tunnel/main/managed2.sh)"
+bash -c "$(curl -fsSL http://raw.githubusercontent.com/mzydev/RTT-ICMP-Tunnel-v2/refs/heads/main/managed2.sh)"
 ```
 
 ---------------------------------------------
